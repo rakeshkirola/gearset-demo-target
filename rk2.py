@@ -14,7 +14,7 @@ def pytest_addoption(parser: Any) -> None:
         "-D",
         "--distribution",
         metavar="DISTRIBUTION",
-        help="Run the integration tests for the given distribution.",
+        help="Run the integration tests for the given distribution. ",
         default=detect_distribution()[0],
         type=Distribution,
         choices=[Distribution(d) for d in Distribution.values()],
