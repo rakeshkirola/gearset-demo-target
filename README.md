@@ -4,7 +4,7 @@
 
 This repository contains sample metadata that you will use during Gearset's onboarding documents to explore what you can do with the Gearset app.
 
-## How to use this repo
+## How to use this repoo
 
 1. Ensure your GitHub account has been linked to your Gearset account
 2. Follow the steps in our onboarding documents to deploy the metadata from this repository to your target demo org
